@@ -1,5 +1,7 @@
 package com.ruihuo.processprovider;
 
+import android.app.AlertDialog;
+import android.app.Dialog;
 import android.app.Service;
 import android.content.Intent;
 import android.os.IBinder;
